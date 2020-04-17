@@ -30,3 +30,34 @@
 
 1586802829 c:\users\balde\desktop\trabajo practico n1 2020\menuprincipal.h
 
+1587054516 source:c:\users\balde\desktop\tp_laboratorio_1\controlesvalidaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"ControlesValidaciones.h"
+
+1587054532 c:\users\balde\desktop\tp_laboratorio_1\controlesvalidaciones.h
+
+1587148948 source:c:\users\balde\desktop\tp_laboratorio_1\funcionescalculos.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"FuncionesCalculos.h"
+
+1587054381 c:\users\balde\desktop\tp_laboratorio_1\funcionescalculos.h
+
+1587054405 source:c:\users\balde\desktop\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	"MenuPrincipal.h"
+	"FuncionesCalculos.h"
+	"ControlesValidaciones.h"
+
+1586802829 c:\users\balde\desktop\tp_laboratorio_1\menuprincipal.h
+
+1586803385 source:c:\users\balde\desktop\tp_laboratorio_1\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	"MenuPrincipal.h"
+
