@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1588522092 source:c:\users\balde\desktop\tp2\gets.c
+	"gets.h"
+
+1588522124 c:\users\balde\desktop\tp2\gets.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589395398 source:c:\users\balde\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gets.h"
+	"menu.h"
+	"ArrayEmployees.h"
+
+1588608788 c:\users\balde\desktop\tp2\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1589395350 c:\users\balde\desktop\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588609759 source:c:\users\balde\desktop\tp2\menu.c
+	"menu.h"
+
+1589396041 source:e:\facultad 2020\programacion 2020 con codeblock\trabajo practico n2\tp2\arrayemployees.c
+	"ArrayEmployees.h"
+	"gets.h"
+	"menu.h"
+
+1589560856 e:\facultad 2020\programacion 2020 con codeblock\trabajo practico n2\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588522124 e:\facultad 2020\programacion 2020 con codeblock\trabajo practico n2\tp2\gets.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1588608788 e:\facultad 2020\programacion 2020 con codeblock\trabajo practico n2\tp2\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1588522092 source:e:\facultad 2020\programacion 2020 con codeblock\trabajo practico n2\tp2\gets.c
+	"gets.h"
+
+1589560102 source:e:\facultad 2020\programacion 2020 con codeblock\trabajo practico n2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gets.h"
+	"menu.h"
+	"ArrayEmployees.h"
+
+1588609759 source:e:\facultad 2020\programacion 2020 con codeblock\trabajo practico n2\tp2\menu.c
+	"menu.h"
+
